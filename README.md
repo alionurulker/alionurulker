@@ -2,6 +2,9 @@
 Hi! My name is Ali Onur Ülker.
 I am interested in Web Design and Programming since 2013. My software adventure started in high school computer classes. I have been to a high school that has an information technologies department. And then, I started my university life at the Computer Science Department of Sakarya University. I participated in the Erasmus program in October 2018. And, I finished my education for two semesters at the University of Rzeszów in Poland. I made an internship as a web application developer in Enka Systems. At the moment, I am working as a full-stack developer on a lot of projects at Advancity. Finally, I have experience with web applications and I want to continue to further build on it in more worthy places. Such a pleasure to code to design and manage events according to your mind on the web.
 
+<h3 align="left">Personel WebSite:</h3>
+<a href="https://alonu.cf/"><img src="https://i.ibb.co/TLJ62y0/Symbol.png" alt="Symbol" border="0"></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
