@@ -11,8 +11,7 @@ This is a brief summary of my software life so far.
 I'm working as a Software Developer at [Advancity](https://advancity.com.tr/)
 
 ## I'm currently working on 🔭
-<code><a href="https://advancity.com.tr/urunlerimiz/aplan-akademik-planlama-yazilimi.html" target="_blank"><img height="35" src="![image](https://user-images.githubusercontent.com/23097492/199607923-b4aff2f1-37aa-44c1-b75c-3e692a20e1f9.png)
-"></a></code>
+<code><a href="https://advancity.com.tr/urunlerimiz/aplan-akademik-planlama-yazilimi.html" target="_blank"><img height="35" src="https://user-images.githubusercontent.com/23097492/199607923-b4aff2f1-37aa-44c1-b75c-3e692a20e1f9.png"></a></code>
 
 ## Contact Me 📫
 [![Linkedin Badge](https://img.shields.io/static/v1?label=%2Falionurulker&message=Follow&color=blue&style=social&logo=linkedin)](https://www.linkedin.com/in/ali-onur-%C3%BClker-ba351511b/?locale=en_US)
