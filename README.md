@@ -11,10 +11,13 @@ This is a brief summary of my software life so far.
 I'm working as a Software Developer at [Advancity](https://advancity.com.tr/)
 
 ## I'm currently working on 🔭
-<code><a href="https://advancity.com.tr/urunlerimiz/aplan-akademik-planlama-yazilimi.html" target="_blank"><img height="35" src="https://user-images.githubusercontent.com/23097492/199607923-b4aff2f1-37aa-44c1-b75c-3e692a20e1f9.png"></a></code>
+<a href="https://advancity.com.tr/urunlerimiz/aplan-akademik-planlama-yazilimi.html" target="_blank"><img height="35" src="https://user-images.githubusercontent.com/23097492/199609042-6e765a34-0bf5-4b2a-b9c9-bde25cea3c20.png"></a>
+
+<a href="https://advancity.com.tr/urunlerimiz/aplan-akademik-planlama-yazilimi.html" target="_blank"><img height="35" src="https://user-images.githubusercontent.com/23097492/199608943-caacdb92-4427-40c4-9e30-185dbfaeca40.png"></a>
 
 ## Contact Me 📫
 [![Linkedin Badge](https://img.shields.io/static/v1?label=%2Falionurulker&message=Follow&color=blue&style=social&logo=linkedin)](https://www.linkedin.com/in/ali-onur-%C3%BClker-ba351511b/?locale=en_US)
+
 [![Medium Badge](https://img.shields.io/static/v1?label=%40alionurulker&message=Follow&color=ccc&style=social&logo=medium)](https://medium.com/@alionurulker)
 
 ## Visitors 🚶‍♂️🚶‍♀️
