@@ -9,8 +9,8 @@ I'm working as a Software Developer at [Advancity](https://advancity.com.tr/)
 
 ## Contact Me 📫
 [![Linkedin Badge](https://img.shields.io/static/v1?label=%2Falionurulker&message=Follow&color=blue&style=social&logo=linkedin)](https://www.linkedin.com/in/ali-onur-%C3%BClker-ba351511b/?locale=en_US)
-
 [![Medium Badge](https://img.shields.io/static/v1?label=%40alionurulker&message=Follow&color=ccc&style=social&logo=medium)](https://medium.com/@alionurulker)
+[![GitHub Follow Badge](https://img.shields.io/github/followers/alionurulker?label=follow&style=social)](https://github.com/alionurulker)
 
 ## Visitors 🚶‍♂️🚶‍♀️
 
