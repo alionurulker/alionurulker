@@ -3,7 +3,7 @@ Hi! My name is Ali Onur Ülker.
 I am interested in Web Design and Programming.
 
 <h3 align="left"> Blog: </h3>
-<a href="http://alonu.epizy.com/"><img src="http://alonu.epizy.com/wp-content/gallery/Symbol.png" alt="Symbol" width="40" height="40"></a>
+<a href="http://alonu.epizy.com/"><img src="https://i.ibb.co/FqG0Qq8/Symbol.png" alt="Symbol" width="40" height="40"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
