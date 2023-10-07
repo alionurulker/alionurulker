@@ -1,6 +1,5 @@
 ### About Myself 👋
-Hi! My name is Ali Onur Ülker.
-I am interested in Web Design and Programming.
+I am interested in Web Design, Programming, and Management.
 
 <h3 align="left"> Blog: </h3>
 <a href="http://alonu.epizy.com/"><img src="https://i.ibb.co/FqG0Qq8/Symbol.png" alt="Symbol" width="40" height="40"></a>
@@ -91,7 +90,7 @@ I am interested in Web Design and Programming.
 </div>
 
 ## Job 💼
-I'm working as a Software Developer at [Advancity](https://advancity.com.tr/)
+I'm working as a Full Stack Developer at [TCI Aircraft Interior](https://tci.aero/)
 
 ## Contact Me 📫
 [![Linkedin Badge](https://img.shields.io/static/v1?label=%2Falionurulker&message=Follow&color=blue&style=social&logo=linkedin)](https://www.linkedin.com/in/alionurulker/?locale=en_US)
