@@ -2,7 +2,7 @@
 I am interested in Web Design, Programming, and Management.
 
 <h3 align="left"> Blog: </h3>
-<a href="http://alonu.epizy.com/"><img src="https://i.ibb.co/FqG0Qq8/Symbol.png" alt="Symbol" width="40" height="40"></a>
+<a href="https://alionur.free.nf/"><img src="https://i.ibb.co/FqG0Qq8/Symbol.png" alt="Symbol" width="40" height="40"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
