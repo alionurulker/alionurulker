@@ -2,6 +2,8 @@
 
 <p align="center">
   <b>Software Developer</b>
+  
+**Specialties:** Full Stack Development · Software Architecture · Optimization · Synchronization · Refactoring & Bug Fixing · Unit & Automation Tests · Mockup & Documentation · Vibe Coding · UI/UX
 </p>
 
 ---
@@ -9,8 +11,6 @@
 ## 🧠 About Me
 
 I'm a full stack developer focused on building scalable, production-ready web applications. My work spans from architecture design and API development to UI/UX, performance optimization, and automated testing. I enjoy tackling complex synchronization and refactoring challenges and turning them into clean, maintainable systems.
-
-**Specialties:** Full Stack Development · Software Architecture · Optimization · Synchronization · Refactoring & Bug Fixing · Unit & Automation Tests · Mockup & Documentation · Vibe Coding · UI/UX
 
 ---
 
