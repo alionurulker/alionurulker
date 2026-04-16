@@ -1,15 +1,12 @@
 <h1 align="center">Hi, I'm Ali Onur Ülker 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · Software Architecture · UI/UX · Optimization · Refactoring
+  <b>Full Stack Developer</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alionurulker/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-alionurulker-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://medium.com/@alionurulker">
-    <img src="https://img.shields.io/badge/Medium-@alionurulker-black?style=flat&logo=medium" />
   </a>
   <a href="https://github.com/alionurulker">
     <img src="https://img.shields.io/github/followers/alionurulker?label=Follow&style=social" />
