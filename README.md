@@ -4,15 +4,6 @@
   <b>Software Developer</b>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alionurulker/?locale=en_US">
-    <img src="https://img.shields.io/badge/LinkedIn-alionurulker-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/alionurulker">
-    <img src="https://img.shields.io/github/followers/alionurulker?label=Follow&style=social" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -115,5 +106,3 @@ Turistiz is a full-featured hospitality SaaS platform. Hosts can manage rooms an
 | 🌐 Portfolio | [porttocv.onrender.com/portfolio/alionurulker](https://porttocv.onrender.com/portfolio/alionurulker) |
 | ✍️ Blog | [alionur.free.nf](https://alionur.free.nf/) |
 | 💼 LinkedIn | [linkedin.com/in/alionurulker](https://www.linkedin.com/in/alionurulker/?locale=en_US) |
-| 📝 Medium | [medium.com/@alionurulker](https://medium.com/@alionurulker) |
-| 🐙 GitHub | [github.com/alionurulker](https://github.com/alionurulker) |
