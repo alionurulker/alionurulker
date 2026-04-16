@@ -15,8 +15,6 @@ I'm a full stack developer focused on building scalable, production-ready web ap
 
 ## 🚀 Featured Projects
 
----
-
 ### [PorttoCV](https://porttocv.onrender.com/) — AI-Powered Portfolio & CV Builder
 
 > Build a stunning portfolio website and generate ATS-optimized CVs with AI.
