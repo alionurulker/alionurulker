@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Ali Onur Ülker 👋</h1>
 
 <p align="center">
-  <b>Software Developer</b>
   
 **Specialties:** Full Stack Development · Software Architecture · Optimization · Synchronization · Refactoring & Bug Fixing · Unit & Automation Tests · Mockup & Documentation · Vibe Coding · UI/UX
 </p>
