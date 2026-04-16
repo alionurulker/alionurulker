@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a full stack developer focused on building scalable, production-ready web applications. My work spans from architecture design and API development to UI/UX, performance optimization, and automated testing. I enjoy tackling complex synchronization and refactoring challenges and turning them into clean, maintainable systems.
 
@@ -17,7 +17,7 @@ I'm a full stack developer focused on building scalable, production-ready web ap
 
 ---
 
-### 🗂️ [PorttoCV](https://porttocv.onrender.com/) — AI-Powered Portfolio & CV Builder
+### [PorttoCV](https://porttocv.onrender.com/) — AI-Powered Portfolio & CV Builder
 
 > Build a stunning portfolio website and generate ATS-optimized CVs with AI.
 
@@ -47,7 +47,7 @@ PorttoCV lets you go from zero to a live portfolio and a polished CV in minutes 
 
 ---
 
-### 🏨 [Turistiz](https://turistiz.com.tr/) — Hotel & Booking Management Platform (MERN Stack PWA SaaS)
+### [Turistiz](https://turistiz.com.tr/) — Hotel & Booking Management Platform (MERN Stack PWA SaaS)
 
 > A trust-based accommodation platform connecting tourists and hosts — built as a full SaaS with dashboard, booking flows, real-time chat, and multi-language support.
 
