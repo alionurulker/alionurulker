@@ -2,7 +2,7 @@
 
 <p align="center">
   
-**Specialties:** Full Stack Development · Software Architecture · Optimization · Synchronization · Refactoring & Bug Fixing · Unit & Automation Tests · Mockup & Documentation · Vibe Coding · UI/UX
+**Specialties:** Full Stack Development · Software Architecture · Optimization · Synchronization · Refactoring & Bug Fixing · Unit & Automation Tests · Mockup & Documentation · Vibe Coding · UI/UX · Devops
 </p>
 
 ---
