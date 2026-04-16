@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ali Onur Ülker 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b>
+  <b>Software Developer</b>
 </p>
 
 <p align="center">
