@@ -1,113 +1,122 @@
-### About Myself 👋
-I am interested in Web Design, Programming, and Management.
+<h1 align="center">Hi, I'm Ali Onur Ülker 👋</h1>
 
-<h3 align="left"> Blog: </h3>
-<a href="https://alionur.free.nf/"><img src="https://i.ibb.co/FqG0Qq8/Symbol.png" alt="Symbol" width="40" height="40"></a>
+<p align="center">
+  <b>Full Stack Developer</b> · Software Architecture · UI/UX · Optimization · Refactoring
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alionurulker/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-alionurulker-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  <a href="https://medium.com/@alionurulker">
+    <img src="https://img.shields.io/badge/Medium-@alionurulker-black?style=flat&logo=medium" />
   </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  <a href="https://github.com/alionurulker">
+    <img src="https://img.shields.io/github/followers/alionurulker?label=Follow&style=social" />
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://tldp.org/LDP/Bash-Beginners-Guide/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mssql" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="nginx" width="40" height="40" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  </a>
-  <a href="https://docs.flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-  </a>
-</div>
+</p>
 
-## Job 💼
-I'm working as a Full Stack Developer at [TCI Aircraft Interior](https://tci.aero/)
+---
 
-## Contact Me 📫
-[![Linkedin Badge](https://img.shields.io/static/v1?label=%2Falionurulker&message=Follow&color=blue&style=social&logo=linkedin)](https://www.linkedin.com/in/alionurulker/?locale=en_US)
-[![Medium Badge](https://img.shields.io/static/v1?label=%40alionurulker&message=Follow&color=ccc&style=social&logo=medium)](https://medium.com/@alionurulker)
-[![GitHub Follow Badge](https://img.shields.io/github/followers/alionurulker?label=follow&style=social)](https://github.com/alionurulker)
+## 🧠 About Me
 
-<!--
-**alionurulker/alionurulker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer focused on building scalable, production-ready web applications. My work spans from architecture design and API development to UI/UX, performance optimization, and automated testing. I enjoy tackling complex synchronization and refactoring challenges and turning them into clean, maintainable systems.
 
-Here are some ideas to get you started:
+**Specialties:** Full Stack Development · Software Architecture · Optimization · Synchronization · Refactoring & Bug Fixing · Unit & Automation Tests · Mockup & Documentation · Vibe Coding · UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+---
+
+### 🗂️ [PorttoCV](https://porttocv.onrender.com/) — AI-Powered Portfolio & CV Builder
+
+> Build a stunning portfolio website and generate ATS-optimized CVs with AI.
+
+PorttoCV lets you go from zero to a live portfolio and a polished CV in minutes — no coding required.
+
+**How it works:**
+1. **Sign up** — Free in under 60 seconds. No credit card. Your portfolio URL is reserved immediately.
+2. **Build your portfolio** — Fill in your Hero section, Education timeline, Work Experience, Skills with proficiency levels, and Projects.
+3. **Customize your theme** — Pick brand colors, font, and layout from the dashboard. Updates are live.
+4. **Generate your AI CV** — Go to Dashboard → AI CV Generator. Choose template, accent color, toggle contact visibility, then click Generate.
+5. **Download & Apply** — Export as `.docx` (best ATS compatibility) or `.pdf`. Includes skill bars, achievement bullets, and an optional cover letter.
+
+**Tech Stack:**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=flat&logo=typeorm&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![NX](https://img.shields.io/badge/NX_Monorepo-143055?style=flat&logo=nx&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat&logo=i18next&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+
+---
+
+### 🏨 [Turistiz](https://turistiz.com.tr/) — Hotel & Booking Management Platform (MERN Stack PWA SaaS)
+
+> A trust-based accommodation platform connecting tourists and hosts — built as a full SaaS with dashboard, booking flows, real-time chat, and multi-language support.
+
+Turistiz is a full-featured hospitality SaaS platform. Hosts can manage rooms and bookings; guests can discover, filter, and request accommodation — all within a single responsive app installable as a PWA.
+
+**Key features for hosts:**
+- Add and manage rooms for hotels, hostels, or guesthouses
+- Build a customer network with ratings and reviews
+- Approve or reject booking requests with date and message support
+- Locate multiple business branches on an integrated map
+- Support customers via real-time instant messaging
+- Customize app colors and logos from the dashboard
+- Manage user roles: ban/unban, set premium durations (auto-reverts to basic)
+- Highlight featured rooms on your homepage
+- Define social media links and business identity
+- Direct customers to a feedback/reports page for complaint resolution
+
+**Key features for guests:**
+- Filter rooms by criteria to find the best match
+- View business locations on a map
+- Rate businesses on customizable criteria
+- Register with OTP email verification; confirm important actions via OTP
+- Access the platform in 15 languages (auto-detected from browser)
+- Enjoy premium membership perks and exclusive promotions
+- Install as a PWA on mobile devices or upload to an app store
+
+**Tech Stack:**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat&logo=i18next&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-003A70?style=flat)
+![Cron Job](https://img.shields.io/badge/Cron_Job-gray?style=flat)
+
+---
+
+## 📬 Contact
+
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | [porttocv.onrender.com/portfolio/alionurulker](https://porttocv.onrender.com/portfolio/alionurulker) |
+| ✍️ Blog | [alionur.free.nf](https://alionur.free.nf/) |
+| 💼 LinkedIn | [linkedin.com/in/alionurulker](https://www.linkedin.com/in/alionurulker/?locale=en_US) |
+| 📝 Medium | [medium.com/@alionurulker](https://medium.com/@alionurulker) |
+| 🐙 GitHub | [github.com/alionurulker](https://github.com/alionurulker) |
